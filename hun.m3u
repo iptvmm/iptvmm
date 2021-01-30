@@ -1,0 +1,184 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Music;Undefined",1Music Channel Hungary
+http://1music.hu/1music.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",AMC
+http://zn.myseries.xyz:8080/suayip/suayip1234/64674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV
+http://185.71.64.167:80/307245103371/307245103371/82709?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT CHANNEL
+http://185.71.64.167:80/307245103371/307245103371/82610?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",AXN
+http://185.71.64.167:80/307245103371/307245103371/82662?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",AXN BLACK
+http://rv.therevenge.co:80/565656/565656/82659?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",AXN WHITE
+http://rv.therevenge.co:80/565656/565656/82660?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",BBC EARTH HD
+http://rv.therevenge.co:80/live/11223344/11223344/82605.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",BLOOMBERG TV
+http://rv.therevenge.co:80/live/242424/242424/82677.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",BOOMERANG
+http://rv.therevenge.co:80/live/242424/242424/82630.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/xyG4O6F.jpg" group-title="Undefined",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/dpGX5SH.png" group-title="Religious",Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/ftmeWq2.png" group-title="Undefined",Budakalasz,HU | Budakalasz
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://rv.therevenge.co:80/live/242424/242424/82629.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CBS REALITY
+http://rv.therevenge.co:80/565656/565656/82674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CHILI TV
+http://rv.therevenge.co:80/live/242424/242424/82708.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CINEMAX
+http://rv.therevenge.co:80/live/242424/242424/82657.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CINEMAX 2
+http://185.71.64.167:80/307245103371/307245103371/82656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://rv.therevenge.co:80/live/242424/242424/82673.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",COOL HD
+http://rv.therevenge.co:80/live/11223344/11223344/82646.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",CORONA VIRUS INFO
+http://rv.therevenge.co:80/live/242424/242424/82725.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Cartoon Network Hu
+http://zn.myseries.xyz:8080/suayip/suayip1234/64702?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Comedy Central Family
+http://zn.myseries.xyz:8080/suayip/suayip1234/64704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DA VINCI LEARNING
+http://rv.therevenge.co:80/live/242424/242424/82672.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DIGI ANIMAL WORLD
+http://rv.therevenge.co:80/565656/565656/82604?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DIGI FILM HD
+http://rv.therevenge.co:80/live/242424/242424/82655.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DIGI LIFE
+http://rv.therevenge.co:80/565656/565656/82603?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 1 HD
+http://185.71.64.167:80/307245103371/307245103371/82620?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 2 HD
+http://rv.therevenge.co:80/565656/565656/82619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 3 HD
+http://rv.therevenge.co:80/live/242424/242424/82618.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DIGI WORLD HD
+http://185.71.64.167:80/307245103371/307245103371/82654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISCOVERY
+http://rv.therevenge.co:80/live/11223344/11223344/82602.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISCOVERY ID
+http://rv.therevenge.co:80/live/242424/242424/82601.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/565656/565656/82598?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://rv.therevenge.co:80/live/242424/242424/82627.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://rv.therevenge.co:80/565656/565656/82628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DUNA TV HD
+http://rv.therevenge.co:80/565656/565656/82705?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DUNA WORLD
+http://rv.therevenge.co:80/565656/565656/82704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Digi Animal World HD
+http://a1.gokakka.club:8880/testzyx030/123456789/31323?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",EPIC DRAMA HD
+http://rv.therevenge.co:80/live/11223344/11223344/82643.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ERDELY TV
+http://rv.therevenge.co:80/565656/565656/82703?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
+http://rv.therevenge.co:80/live/242424/242424/82617.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",EUROSPORT 2 HD
+http://rv.therevenge.co:80/live/242424/242424/82616.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",FEM 3
+http://185.71.64.167:80/307245103371/307245103371/82670?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",FILM 4
+http://rv.therevenge.co:80/565656/565656/82642?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",FILM HD
+http://rv.therevenge.co:80/live/11223344/11223344/82638.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",FILMBOX EXTRA HD
+http://rv.therevenge.co:80/565656/565656/82640?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",FILMBOX PREMIUM
+http://rv.therevenge.co:80/live/11223344/11223344/82653.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Film PLUS
+http://rv.therevenge.co:80/565656/565656/82637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://rv.therevenge.co:80/live/11223344/11223344/82651.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",HBO 3
+http://rv.therevenge.co:80/565656/565656/82650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",HBO HD
+http://rv.therevenge.co:80/live/242424/242424/82652.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",HIR TV
+http://rv.therevenge.co:80/565656/565656/82700?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",HISTORY
+http://185.71.64.167:80/307245103371/307245103371/82596?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M1 HD
+http://rv.therevenge.co:80/live/242424/242424/82649.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M2 HD
+http://rv.therevenge.co:80/live/11223344/11223344/82648.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M3
+http://rv.therevenge.co:80/live/11223344/11223344/82635.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",M4 Sport HD
+http://rv.therevenge.co:80/live/242424/242424/82615.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M5 HD
+http://rv.therevenge.co:80/live/242424/242424/82634.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",MOZI
+http://rv.therevenge.co:80/live/11223344/11223344/82691.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",MOZI+ HD
+http://rv.therevenge.co:80/565656/565656/82693?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",MOZIVERZUM
+http://rv.therevenge.co:80/live/242424/242424/82692.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",MTV Hungary
+http://zn.myseries.xyz:8080/suayip/suayip1234/64712?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://185.71.64.167:80/307245103371/307245103371/82595?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL
+http://rv.therevenge.co:80/565656/565656/82647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL +
+http://zn.myseries.xyz:8080/suayip/suayip1234/64715?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL 2 HD
+http://rv.therevenge.co:80/565656/565656/82722?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL GOLD HD
+http://rv.therevenge.co:80/565656/565656/82686?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL KLUB HD
+http://185.71.64.167:80/307245103371/307245103371/82721?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL PLUS
+http://rv.therevenge.co:80/565656/565656/82720?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SONY MAX
+http://rv.therevenge.co:80/live/242424/242424/82633.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SONY MOVIE
+http://rv.therevenge.co:80/live/242424/242424/82632.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SORAZAT PLUS
+http://rv.therevenge.co:80/565656/565656/82644?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SPEKTRUM
+http://rv.therevenge.co:80/live/242424/242424/82683.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SPEKTRUM HOME
+http://rv.therevenge.co:80/live/11223344/11223344/82719.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SPILER 1 TV
+http://rv.therevenge.co:80/live/11223344/11223344/82682.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SPILER 2
+http://rv.therevenge.co:80/565656/565656/82681?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",SPORT 1 HD
+http://rv.therevenge.co:80/565656/565656/82614?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",SPORT 2 HD
+http://rv.therevenge.co:80/live/242424/242424/82613.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",STORY 4
+http://rv.therevenge.co:80/565656/565656/82718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",STORY 5
+http://rv.therevenge.co:80/565656/565656/82717?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",SUPER TV
+http://rv.therevenge.co:80/565656/565656/82716?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Sony Movie Channel
+http://zn.myseries.xyz:8080/suayip/suayip1234/64719?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TRAVEL CHANNEL HD
+http://rv.therevenge.co:80/565656/565656/82666?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2 HD
+http://185.71.64.167:80/307245103371/307245103371/82713?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV4
+http://rv.therevenge.co:80/live/242424/242424/82679.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VIASAT 3
+http://rv.therevenge.co:80/565656/565656/82712?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VIASAT 6
+http://rv.therevenge.co:80/565656/565656/82711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VIASAT EXPLORE
+http://185.71.64.167:80/307245103371/307245103371/82593?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VIASAT HISTORY
+http://rv.therevenge.co:80/565656/565656/82592?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VIASAT NATURE
+http://rv.therevenge.co:80/565656/565656/82591?checkedby:iptvcat.com
