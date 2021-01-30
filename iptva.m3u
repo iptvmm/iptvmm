@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-country="SK" tvg-url="" group-title="Balík A",JOJ
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/1hKwMpt.png" tvg-country="SK" tvg-url="" group-title="Balík A",JOJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" tvg-country="SK" tvg-url="" group-title="Balík A",WAU
+https://nn.geo.joj.sk/live/wau-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" tvg-country="SK" tvg-url="" group-title="Balík A",TV Lux (360p)
+http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/UlxvPzz.png" tvg-country="SK" tvg-url="" group-title="Balík A",Rádio SRo1
+http://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/KWCQgLU.png" tvg-country="SK" tvg-url="" group-title="Balík A",Rádio Fun
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Avb72oW.png" tvg-country="SK" tvg-url="" group-title="Balík A",Rádio Európa 2
+http://stream.radioservices.sk/europa2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Avb72oW.png" tvg-country="SK" tvg-url="" group-title="Balík A",Rádio Expres
+https://stream.expres.sk/128.mp3
+
