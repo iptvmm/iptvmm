@@ -1,0 +1,20 @@
+? Encoded by Viktor, Discord: proudnitrouser#0310, Reddit: u/investigatorguy137
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Algeria",Al Hayat RTM
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Algeria",Dijlah RTM
+rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Algeria",Dijlah TV Jordan RTM
+rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Algeria",El Nahar Alg
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Algeria",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Nogoum FM TV RTM
+rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Radio",Chaine 1
+http://ch1.ice.infomaniak.ch/ch1-64.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Radio",Chaine 2
+https://ch2.ice.infomaniak.ch/ch2-64.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Radio",Chaine 3
+http://ch1.ice.infomaniak.ch/ch3-64.aac
